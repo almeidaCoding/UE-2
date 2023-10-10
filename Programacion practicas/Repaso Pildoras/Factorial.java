@@ -13,5 +13,6 @@ public class Factorial {
             resultado = resultado*i;
         }
         System.out.println("El factorial de " + numero + " es: " + resultado);
+        sc.close();
     }
 }

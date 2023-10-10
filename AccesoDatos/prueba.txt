@@ -1,0 +1,2 @@
+Probando el buffered de la clase FileWriter
+Probando en una nueva linea
