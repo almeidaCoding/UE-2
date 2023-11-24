@@ -29,39 +29,3 @@ public class Hilos {
 
     }
 }
-
-class NumerosPares implements Runnable{
-
-    int sumaPares = 0;
-
-    @Override
-    public void run() {
-        for (int i = 2; i <= 10; i += 2) {
-            System.out.println("Número par: " + i);
-            sumaPares += i;
-        }
-    }
-
-    public String getSumaPares (){
-        return "La suma total de los números pares es: " + sumaPares;
-    }
-    
-}
-
-class NumerosImpares implements Runnable{
-
-    int sumaImpares = 0;
-
-    @Override
-    public void run() {
-        for (int i = 1; i <= 10; i += 2) {
-            System.out.println("Número impar: " + i);
-            sumaImpares += i;
-        }
-    }
-
-    public String getSumaImpares (){
-        return "La suma total de los número impares es: " + sumaImpares;
-    }
-    
-}
