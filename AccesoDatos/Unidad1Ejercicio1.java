@@ -1,4 +1,3 @@
-package AccesoDatos;
 
 import java.io.File;
 import java.io.IOException;
@@ -27,7 +26,7 @@ public class Unidad1Ejercicio1 {
         }else if (esDirectory){
             System.out.println("Es un directorio");
         }else{
-            System.out.println("Archivo o Directorio mo existente");
+            System.out.println("Archivo o Directorio no existente");
         }
 
         String rutaArchivo = "C:\\Users\\chpal\\OneDrive\\Escritorio\\Código\\UE-2\\Prueba\\prueba1.java";
@@ -41,4 +40,3 @@ public class Unidad1Ejercicio1 {
         }
     }
 }
-

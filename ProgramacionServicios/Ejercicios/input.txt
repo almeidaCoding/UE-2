@@ -1,0 +1,2 @@
+Ingrese un numero: 
+El resultado es: 10

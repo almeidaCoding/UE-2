@@ -1,4 +1,3 @@
-package AccesoDatos;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -21,7 +20,7 @@ public class Unidad1Ejercicio5 {
             DocumentBuilder builder = factory.newDocumentBuilder();
             
             // Especificar la ruta al archivo XML local
-            File xmlFile = new File("C:\\Users\\chpal\\OneDrive\\Escritorio\\Código\\UE-1\\Lenguajes de marca\\XML\\ejercicio1.xml");
+            File xmlFile = new File("C:\\Users\\chpal\\OneDrive\\Escritorio\\Código\\UE1\\Lenguajes de marca\\XML\\ejercicio1.xml");
             
             // Parsear el archivo XML y obtener un objeto Document
             Document document = builder.parse(xmlFile);
@@ -44,3 +43,9 @@ public class Unidad1Ejercicio5 {
         return writer.getBuffer().toString();
     }
 }
+
+
+
+
+
+

@@ -1,4 +1,3 @@
-package AccesoDatos;
 
 import java.io.File;
 
@@ -30,5 +29,4 @@ public class Unidad1Ejercicio2 {
             System.out.println("Ocurrió un error: " + e.getMessage());
         }
     }
-    
 }

@@ -1,4 +1,3 @@
-package AccesoDatos;
 
 import java.io.*;
 
@@ -44,3 +43,5 @@ class Persona implements Serializable {
         return edad;
     }
 }
+
+
