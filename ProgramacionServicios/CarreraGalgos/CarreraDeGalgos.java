@@ -35,8 +35,3 @@ public class CarreraDeGalgos {
         scanner.close();
     }
 }
-
-
-
-
-
