@@ -1,0 +1,51 @@
+Nombre: Chantal
+
+Apellido: De Almeida
+
+Teléfono: 603290902
+
+Edad: 29
+
+DNI: Y6758171B
+
+
+
+Nombre: Chantal
+
+Apellido: De Almeida
+
+Teléfono: 603290902
+
+Edad: 29
+
+DNI: Y6758271B
+
+
+
+Nombre: Beatriz
+
+Apellido: Guillermo
+
+Teléfono: 603290902
+
+Edad: 25
+
+DNI: Y6758271B
+
+
+
+Nombre: Tamara
+
+Apellido: Mora
+
+Teléfono: 603290902
+
+Edad: 26
+
+DNI: 984629841H
+
+Nombre: Maria Jose
+Apellido: Jamette
+Teléfono: 4895639583
+Edad: 25
+DNI: 28934623948H
